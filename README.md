@@ -1,4 +1,4 @@
-# Sky Take home app for iOS Developers (technical test)
+# Sky Take home test app for iOS Developers (technical test)
 This app is just for reference, you may get different problem to solve, usually Sky use unique problem to test candidates. However marking criteria would be same.
 
 ## Sky take home test Marking Criteria 
