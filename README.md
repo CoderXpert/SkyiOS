@@ -24,4 +24,4 @@ Use this app only as reference and don not copy paste any thing otherwise look s
 
 [Video](https://youtu.be/90Sb0aCMYV8)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/90Sb0aCMYV8/1.jpg)](https://youtu.be/90Sb0aCMYV8)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/90Sb0aCMYV8/2.jpg)](https://youtu.be/90Sb0aCMYV8)
